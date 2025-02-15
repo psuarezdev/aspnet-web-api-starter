@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "z3kTnlGsYSQdtY41dFf+PuaXDKnxOXuSlCHrsJKmzr0=",
+  "Source": "AspNetWebApiStarter",
+  "BasePath": "_content/AspNetWebApiStarter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
